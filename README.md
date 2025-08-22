@@ -54,7 +54,7 @@ This project has sparked my passion for exploring FastAPI to an even greater ext
 
 ```CMD
 # Clone the repository
-git clone https://github.com/kuchurisatwik/Insurance_Prediciton.git
+git clone https://github.com/kuchurisatwik/Insurance_Prediction.git
 
 # Install dependencies
 pip install -r requirements.txt
